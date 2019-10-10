@@ -1,4 +1,6 @@
 # Michael Woods 
+# SHA-512 Password Cracker
+# Combine with word list  
 import crypt
 def testPass(cryptPass):
 	salt = cryptPass[0:11]
