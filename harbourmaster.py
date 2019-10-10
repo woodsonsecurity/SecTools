@@ -2,10 +2,6 @@
 
 # Habourmaster - Simple CLI Port Scanner
 # Author: Michael Woods
-# Student ID: 3023849
-# Edith Cowan University, Joondalup Campus
-# CSI6204 Ethical Hacking and Defence
-# Portfolio B
 
 # to run this script use the command line interface when in the script's directory:
 # python harbourmaster.py <target IP Address> <starting port number> <ending port number>
